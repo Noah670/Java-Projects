@@ -3,6 +3,8 @@
 // Written by Noah
 // Created on 04/12/2019
 
+// This program converts inches to feet and yards using simple calculations
+
 import java.util.Scanner;
 
 public class InchConversion {
