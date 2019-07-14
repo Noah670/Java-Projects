@@ -1,2 +1,2 @@
 # Java-Projects
-Java Projects that I have worked on for CS227
+Some Java Projects that I have worked on for CS classes and projects.
