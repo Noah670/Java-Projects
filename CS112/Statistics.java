@@ -1,12 +1,5 @@
 /*
- * Problem Set 1
- *
- * File: Statistics.java
- * Author: Noah Pohl
- * Course: CS112, Boston University
- * Section: Lab Section B3
- *
- * Purpose: Template code - Alter to state the purpose of this program
+ *  Alter to state the purpose of this program
  */
 
 // The following import command is required for performing user input:
